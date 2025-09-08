@@ -1,0 +1,59 @@
+{ 
+  "slug": "rivals-of-aether-2",
+  "name": "Rivals of Aether 2", 
+  "settings": { 
+	"primaryColor": "#6b5ada", 
+	"secondaryColor": "#d38aa3",
+	"tertiaryColor": "#c6f8f5"
+  },
+  "characters": [
+	{
+	  "slug": "forsburn",
+	  "name": "Forsburn"
+	},
+	{
+	  "slug": "loxodont",
+	  "name": "Loxodont"
+	},
+	{
+	  "slug": "clairen",
+	  "name": "Clairen"
+	},
+	{
+	  "slug": "zetterburn",
+	  "name": "Zetterburn"
+	},
+	{
+	  "slug": "wrastor",
+	  "name": "Wrastor"
+	},
+	{
+	  "slug": "fleet",
+	  "name": "Fleet"
+	},
+	{
+	  "slug": "absa",
+	  "name": "Absa"
+	},
+	{
+	  "slug": "maypul",
+	  "name": "Maypul"
+	},
+	{
+	  "slug": "kragg",
+	  "name": "Kragg"
+	},
+	{
+	  "slug": "ranno",
+	  "name": "Ranno"
+	},
+	{
+	  "slug": "orcane",
+	  "name": "Orcane"
+	},
+	{
+	  "slug": "etalus",
+	  "name": "Etalus"
+	}
+  ]
+}
