@@ -4,7 +4,8 @@
   "settings": { 
 	"primaryColor": "#6b5ada", 
 	"secondaryColor": "#d38aa3",
-	"tertiaryColor": "#c6f8f5"
+	"tertiaryColor": "#c6f8f5",
+	"banner": "https://raw.githubusercontent.com/Dopemon/fgc_notebook_games/refs/heads/main/rivals-of-aether-2/assets/banners/rivals-of-aether-2.png"
   },
   "characters": [
 	{
