@@ -4,56 +4,69 @@
   "settings": { 
 	"primaryColor": "#6b5ada", 
 	"secondaryColor": "#d38aa3",
-	"tertiaryColor": "#c6f8f5"
+	"tertiaryColor": "#c6f8f5",
+	"banner": "https://raw.githubusercontent.com/Dopemon/fgc_notebook_games/refs/heads/main/rivals-of-aether-2/assets/banners/rivals-of-aether-2.png"
   },
   "characters": [
 	{
 	  "slug": "forsburn",
-	  "name": "Forsburn"
+	  "name": "Forsburn",
+	  "icon": "https://raw.githubusercontent.com/Dopemon/fgc_notebook_games/refs/heads/main/rivals-of-aether-2/assets/icons/forsburn.png"
 	},
 	{
 	  "slug": "loxodont",
-	  "name": "Loxodont"
+	  "name": "Loxodont",
+      "icon": "https://raw.githubusercontent.com/Dopemon/fgc_notebook_games/refs/heads/main/rivals-of-aether-2/assets/icons/loxodont.png"
 	},
 	{
 	  "slug": "clairen",
-	  "name": "Clairen"
+	  "name": "Clairen",
+      "icon": "https://raw.githubusercontent.com/Dopemon/fgc_notebook_games/refs/heads/main/rivals-of-aether-2/assets/icons/clairen.png"
 	},
 	{
 	  "slug": "zetterburn",
-	  "name": "Zetterburn"
+	  "name": "Zetterburn",
+      "icon": "https://raw.githubusercontent.com/Dopemon/fgc_notebook_games/refs/heads/main/rivals-of-aether-2/assets/icons/zetterburn.png"
 	},
 	{
 	  "slug": "wrastor",
-	  "name": "Wrastor"
+	  "name": "Wrastor",
+      "icon": "https://raw.githubusercontent.com/Dopemon/fgc_notebook_games/refs/heads/main/rivals-of-aether-2/assets/icons/wrastor.png"
 	},
 	{
 	  "slug": "fleet",
-	  "name": "Fleet"
+	  "name": "Fleet",
+      "icon": "https://raw.githubusercontent.com/Dopemon/fgc_notebook_games/refs/heads/main/rivals-of-aether-2/assets/icons/fleet.png"
 	},
 	{
 	  "slug": "absa",
-	  "name": "Absa"
+	  "name": "Absa",
+      "icon": "https://raw.githubusercontent.com/Dopemon/fgc_notebook_games/refs/heads/main/rivals-of-aether-2/assets/icons/absa.png"
 	},
 	{
 	  "slug": "maypul",
-	  "name": "Maypul"
+	  "name": "Maypul",
+      "icon": "https://raw.githubusercontent.com/Dopemon/fgc_notebook_games/refs/heads/main/rivals-of-aether-2/assets/icons/maypul.png"
 	},
 	{
 	  "slug": "kragg",
-	  "name": "Kragg"
+	  "name": "Kragg",
+      "icon": "https://raw.githubusercontent.com/Dopemon/fgc_notebook_games/refs/heads/main/rivals-of-aether-2/assets/icons/kragg.png"
 	},
 	{
 	  "slug": "ranno",
-	  "name": "Ranno"
+	  "name": "Ranno",
+      "icon": "https://raw.githubusercontent.com/Dopemon/fgc_notebook_games/refs/heads/main/rivals-of-aether-2/assets/icons/ranno.png"
 	},
 	{
 	  "slug": "orcane",
-	  "name": "Orcane"
+	  "name": "Orcane",
+      "icon": "https://raw.githubusercontent.com/Dopemon/fgc_notebook_games/refs/heads/main/rivals-of-aether-2/assets/icons/orcane.png"
 	},
 	{
 	  "slug": "etalus",
-	  "name": "Etalus"
+	  "name": "Etalus",
+      "icon": "https://raw.githubusercontent.com/Dopemon/fgc_notebook_games/refs/heads/main/rivals-of-aether-2/assets/icons/etalus.png"
 	}
   ]
 }
